@@ -1,0 +1,14 @@
+G:\CNTT17_03\Lap1.5\Hinh\bin\Debug\net8.0\Hinh.exe
+G:\CNTT17_03\Lap1.5\Hinh\bin\Debug\net8.0\Hinh.deps.json
+G:\CNTT17_03\Lap1.5\Hinh\bin\Debug\net8.0\Hinh.runtimeconfig.json
+G:\CNTT17_03\Lap1.5\Hinh\bin\Debug\net8.0\Hinh.dll
+G:\CNTT17_03\Lap1.5\Hinh\bin\Debug\net8.0\Hinh.pdb
+G:\CNTT17_03\Lap1.5\Hinh\obj\Debug\net8.0\Hinh.GeneratedMSBuildEditorConfig.editorconfig
+G:\CNTT17_03\Lap1.5\Hinh\obj\Debug\net8.0\Hinh.AssemblyInfoInputs.cache
+G:\CNTT17_03\Lap1.5\Hinh\obj\Debug\net8.0\Hinh.AssemblyInfo.cs
+G:\CNTT17_03\Lap1.5\Hinh\obj\Debug\net8.0\Hinh.csproj.CoreCompileInputs.cache
+G:\CNTT17_03\Lap1.5\Hinh\obj\Debug\net8.0\Hinh.dll
+G:\CNTT17_03\Lap1.5\Hinh\obj\Debug\net8.0\refint\Hinh.dll
+G:\CNTT17_03\Lap1.5\Hinh\obj\Debug\net8.0\Hinh.pdb
+G:\CNTT17_03\Lap1.5\Hinh\obj\Debug\net8.0\Hinh.genruntimeconfig.cache
+G:\CNTT17_03\Lap1.5\Hinh\obj\Debug\net8.0\ref\Hinh.dll
