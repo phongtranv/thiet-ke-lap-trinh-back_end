@@ -1,0 +1,14 @@
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\obj\Debug\net8.0\Lap1.2_Bai1.GeneratedMSBuildEditorConfig.editorconfig
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\obj\Debug\net8.0\Lap1.2_Bai1.AssemblyInfoInputs.cache
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\obj\Debug\net8.0\Lap1.2_Bai1.AssemblyInfo.cs
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\obj\Debug\net8.0\Lap1.2_Bai1.csproj.CoreCompileInputs.cache
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\bin\Debug\net8.0\Lap1.2_Bai1.exe
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\bin\Debug\net8.0\Lap1.2_Bai1.deps.json
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\bin\Debug\net8.0\Lap1.2_Bai1.runtimeconfig.json
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\bin\Debug\net8.0\Lap1.2_Bai1.dll
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\bin\Debug\net8.0\Lap1.2_Bai1.pdb
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\obj\Debug\net8.0\Lap1.2_Bai1.dll
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\obj\Debug\net8.0\refint\Lap1.2_Bai1.dll
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\obj\Debug\net8.0\Lap1.2_Bai1.pdb
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\obj\Debug\net8.0\Lap1.2_Bai1.genruntimeconfig.cache
+G:\CNTT17_03\Lab_1.2\Lap1.2_Bai1\obj\Debug\net8.0\ref\Lap1.2_Bai1.dll
