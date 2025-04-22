@@ -1,0 +1,14 @@
+G:\CNTT17_03\Lap1.1\Lap1.1\bin\Debug\net8.0\Lap1.1.exe
+G:\CNTT17_03\Lap1.1\Lap1.1\bin\Debug\net8.0\Lap1.1.deps.json
+G:\CNTT17_03\Lap1.1\Lap1.1\bin\Debug\net8.0\Lap1.1.runtimeconfig.json
+G:\CNTT17_03\Lap1.1\Lap1.1\bin\Debug\net8.0\Lap1.1.dll
+G:\CNTT17_03\Lap1.1\Lap1.1\bin\Debug\net8.0\Lap1.1.pdb
+G:\CNTT17_03\Lap1.1\Lap1.1\obj\Debug\net8.0\Lap1.1.GeneratedMSBuildEditorConfig.editorconfig
+G:\CNTT17_03\Lap1.1\Lap1.1\obj\Debug\net8.0\Lap1.1.AssemblyInfoInputs.cache
+G:\CNTT17_03\Lap1.1\Lap1.1\obj\Debug\net8.0\Lap1.1.AssemblyInfo.cs
+G:\CNTT17_03\Lap1.1\Lap1.1\obj\Debug\net8.0\Lap1.1.csproj.CoreCompileInputs.cache
+G:\CNTT17_03\Lap1.1\Lap1.1\obj\Debug\net8.0\Lap1.1.dll
+G:\CNTT17_03\Lap1.1\Lap1.1\obj\Debug\net8.0\refint\Lap1.1.dll
+G:\CNTT17_03\Lap1.1\Lap1.1\obj\Debug\net8.0\Lap1.1.pdb
+G:\CNTT17_03\Lap1.1\Lap1.1\obj\Debug\net8.0\Lap1.1.genruntimeconfig.cache
+G:\CNTT17_03\Lap1.1\Lap1.1\obj\Debug\net8.0\ref\Lap1.1.dll
